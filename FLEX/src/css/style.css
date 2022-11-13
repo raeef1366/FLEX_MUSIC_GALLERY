@@ -1,0 +1,126 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #07070c;
+}
+
+.digital_art{
+    position: absolute;
+    color: white;
+}
+
+.digital_art .text1{
+    position: absolute;
+    color: white;
+    font-family: 'Michroma', sans-serif;
+    margin-left: 900px;
+    margin-top: 223px;
+    font-size: 40px;
+    white-space: pre;
+}
+.nfts{
+    background-image: linear-gradient(124deg,#c9f95a96,#bef703b3,#c6f920b5);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: -211px;
+    font-size: 34px;
+    margin-top: -50px;
+}
+.nfts_p{
+    position: absolute;
+    color: #f1eded;
+    margin-left: 805px;
+    margin-top: 309px;
+    font-size: 30px;
+    letter-spacing: .3px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    white-space: pre;
+}
+
+
+
+
+
+.digital_art .art_works{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 165px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.digital_art .art_works .art_works1{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2.6;
+    color: #f1eded;
+    white-space: pre;
+    margin: -36px -11px 0;
+}
+.digital_art .k{
+    position: absolute;
+    background: linear-gradient(90deg,#c9f95a96,#bef703b3,#c6f920b5);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: -70px;
+    margin-left: 3px;
+}
+
+
+.digital_art .artists{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 500px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.digital_art .artists .artists1{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2.6;
+    color: #f1eded;
+    white-space: pre;
+    margin: -40px 0px 0;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.img .img1{
+    width: 250px;
+    height: 250px;
+    margin-left: 47px;
+    margin-top: 160px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+
+.img .img3{
+    position: absolute;
+    margin: 3px -28px 0;
+    margin-left: 371px;
+    margin-top: -253px;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+nav .button1{
+    position: absolute;
+    color: white;
+    cursor: pointer;
+    background: -webkit-linear-gradient(90deg, #c6f920b5,#bef703b3,#c9f95a96);        
+    background: linear-gradient(90deg, #c9f95a96,#bef703b3,#c6f920b5);       
+    font-family: 'Montserrat', sans-serif;
+    width: 170px;
+    height: 50px;
+    border-radius: 30px;   
+    margin-left: 1200px;
+    margin-top: -50px;                           
+ }
